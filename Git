@@ -1,3 +1,14 @@
+Some more Basic Git Command
+mkdir
+cat
+touch
+stash
+stash pop
+stash clear
+git checkout
+git branch
+git merge
+
 …or create a new repository on the command line
 echo "# testing" >> README.md
 git init
